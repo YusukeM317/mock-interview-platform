@@ -1,7 +1,5 @@
 
 # 🤖 InterviewerAI - Precision in Recruitment 
-![Interviewerai](https://github.com/user-attachments/assets/d26c8001-18ba-4777-bcd9-f80c479f3557)
-
 
 
 
