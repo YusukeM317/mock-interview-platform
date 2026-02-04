@@ -38,7 +38,7 @@ const Footer = () => {
           <Link href="mailto:yusukemorimoto234@gmail.com" className="hover:underline">Contact Us</Link>
         </div>
         <div>
-        {year && <>Copyright © {year} | <span className="font-semibold">IntervueAI</span></>}
+        {year && <>Copyright © {year} | <span className="font-semibold">InterviewerAI</span></>}
         </div>
       </div>
     </footer>

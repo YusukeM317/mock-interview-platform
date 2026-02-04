@@ -12,8 +12,8 @@ const monaSans = Mona_Sans({
 
 
 export const metadata: Metadata = {
-  title: "IntervueAI - Precision in Recruitment",
-  description: "IntervueAI is an AI-driven interview platform with real-time voice integration and automated feedback, helping users prepare faster and smarter.",
+  title: "Interviewer-AI - Precision in Recruitment",
+  description: "Interview-AI is an AI-driven interview platform with real-time voice integration and automated feedback, helping users prepare faster and smarter.",
 };
 
 export default function RootLayout({

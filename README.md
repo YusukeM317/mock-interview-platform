@@ -1,14 +1,14 @@
 
-# 🤖 IntervueAI - Precision in Recruitment 
-![intervueai](https://github.com/user-attachments/assets/d26c8001-18ba-4777-bcd9-f80c479f3557)
+# 🤖 InterviewerAI - Precision in Recruitment 
+![Interviewerai](https://github.com/user-attachments/assets/d26c8001-18ba-4777-bcd9-f80c479f3557)
 
 
 
 
 ## 🌟 Overview
-The **IntervueAI** is a next-gen AI-powered mock interview platform built to help students and professionals prepare for interviews in a way that actually feels real. It goes beyond generic questions using your resume, job role, and round type to generate personalized, industry-relevant interviews.
+The **InterviewAI** is a next-gen AI-powered mock interview platform built to help students and professionals prepare for interviews in a way that actually feels real. It goes beyond generic questions using your resume, job role, and round type to generate personalized, industry-relevant interviews.
 
-  What makes IntervueAI special is its ability to give smart, AI-generated feedback after each session including performance insights, improvement tips, and evaluation reports so you’re not just practicing, you’re leveling up.
+  What makes InterviewAI special is its ability to give smart, AI-generated feedback after each session including performance insights, improvement tips, and evaluation reports so you’re not just practicing, you’re leveling up.
 
 ## ✨ Features
 - 🔐 **User Authentication**
